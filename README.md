@@ -1,57 +1,73 @@
-# Atividades de Técnicas de Programação
+# 💻 Técnicas de Programação - Engenharia de Software
 
-Este repositório tem como objetivo consolidar e apresentar as atividades desenvolvidas durante a disciplina de **Técnicas de Programação**. O conteúdo aqui reflete meu aprendizado e a aplicação prática dos conceitos fundamentais da área.
+## 🎓 Sobre a Disciplina
 
----
+Este repositório contém os materiais, exercícios e projetos desenvolvidos para a disciplina de **Técnicas de Programação** do curso de Engenharia de Software. O objetivo principal da disciplina é consolidar os fundamentos da programação estruturada e orientada a objetos, focando em boas práticas de codificação, estruturas de dados elementares e algoritmos eficientes.
 
-### 📝 Conteúdo do Repositório
+## 🎯 Objetivos do Repositório
 
-O repositório está organizado em pastas que correspondem a diferentes módulos ou tópicos da disciplina. Cada pasta contém os códigos-fonte, arquivos de configuração e documentação específica dos projetos ou exercícios.
+O propósito deste repositório é:
+*   **Organizar** o código-fonte de todos os exercícios e projetos.
+*   **Documentar** as soluções e os aprendizados de cada etapa.
+*   **Servir como portfólio** das habilidades adquiridas na disciplina.
 
-* **`01-Fundamentos`**: Exercícios iniciais sobre variáveis, tipos de dados, operadores e estruturas de controle.
-* **`02-Estruturas-de-Dados`**: Implementações de estruturas de dados básicas, como listas, pilhas e filas.
-* **`03-Programacao-Orientada-a-Objetos`**: Projetos que aplicam os princípios de POO (classes, objetos, herança, polimorfismo).
-* **`04-Algoritmos-de-Busca`**: Exemplos de algoritmos de busca (linear, binária) e análise de complexidade.
-* **`05-Projetos-Finais`**: Projetos mais complexos que integram diversos conceitos da disciplina, como um sistema de gerenciamento ou uma aplicação web simples.
+## 📂 Estrutura do Projeto
 
----
+A organização dos arquivos segue a seguinte estrutura:
 
-### 🚀 Tecnologias Utilizadas
+```
+.
+├── README.md
+├── Exercicios/
+│   ├── Lista_01/
+│   ├── Lista_02/
+│   └── ...
+├── Projetos/
+│   ├── Projeto_01_Nome_Curto/
+│   └── Projeto_02_Nome_Curto/
+└── src/ (Opcional, para código-fonte principal de projetos maiores)
+```
 
-As atividades foram desenvolvidas utilizando as seguintes tecnologias e linguagens de programação:
+## 🛠️ Tecnologias Utilizadas
 
-* **Linguagem de Programação:** `python`
-* **Ferramentas:** `sublitext, Git, GitHub, VS Code`
-* **Frameworks/Bibliotecas:** `[Se aplicável, ex: NumPy, Pandas]`
+Liste aqui as principais linguagens, frameworks e ferramentas utilizadas na disciplina.
 
----
+*   **Linguagem Principal:** [Ex: Python, Java, C++]
+*   **Ambiente de Desenvolvimento:** [Ex: VS Code, IntelliJ IDEA]
+*   **Outras Ferramentas:** [Ex: Git, GitHub]
 
-### 👨‍💻 Como Rodar os Projetos
+## 🚀 Como Executar os Projetos
 
-Para executar os projetos localmente, siga os passos abaixo:
+Para clonar e executar os projetos localmente, siga os passos abaixo:
 
-1.  Clone este repositório para a sua máquina:
+1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    git clone [URL do seu repositório]
     ```
-2.  Navegue até a pasta do projeto desejado:
+2.  **Navegue até o diretório do projeto desejado:**
     ```bash
-    cd nome-do-repositorio/01-Fundamentos
+    cd [Nome do Repositório]/Projetos/Projeto_01_Nome_Curto
     ```
-3.  Execute o arquivo principal. O comando pode variar dependendo da linguagem:
+3.  **Instale as dependências (se houver):**
     ```bash
-    [Ex: python nome_do_arquivo.py]
+    # Exemplo para Python
+    pip install -r requirements.txt
     ```
+4.  **Execute o programa:**
+    ```bash
+    # Exemplo
+    python main.py
+    ```
+
+## 📝 Licença
+
+Este projeto está sob a licença [Ex: MIT, GPL, ou "Todos os Direitos Reservados para fins acadêmicos"]. Consulte o arquivo `LICENSE` para mais detalhes.
+
+## 🧑‍💻 Autor
+
+| Função | Nome | Matrícula |
+| :--- | :--- | :--- |
+| Desenvolvedor(a) | [Seu Nome Completo] | [Sua Matrícula] |
 
 ---
-
-### ✍️ Autor
-
-* **Kaiky Alexandre de Souza Ribeiro ** - `kaikysnow`
-
----
-
-### 📄 Licença
-
-Este projeto está sob a licença [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
-
+*Última atualização: [Data da última modificação]*
